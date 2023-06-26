@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajid Junejo
 - 👀 I’m interested in Java Development.
-- 🌱 I’m currently learning Java & PHP Laravel.
+- 🌱 I’m currently learning Java, Laravel & Node Js Developer.
 - 💞️ I’m looking to collaborate on other Developers.
 - 📫 How to reach me sajidjunejo.muet@gmail.com
 
